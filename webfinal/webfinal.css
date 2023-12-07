@@ -1,0 +1,173 @@
+
+
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+img{ 
+   width:50%;
+   height:40%;
+   margin-left: 3px;
+   padding:50px;
+}
+
+
+
+h1{ 
+   font-family: Lobster, Cambria, "Times New Roman", serif;
+}
+
+#aboutus{
+	background-image: url('images/idpg.jpg');
+}
+
+header button{
+	padding: 10px;
+    margin-top:0;
+	width:100px;
+	background-color:lightpink;	
+}
+
+header #first{
+    font-weight:bold;
+	font-size: 3.0 rem;
+	color:lightpink;
+    text-transform:uppercase;
+}
+	
+
+body {
+    margin-bottom: 2 rem;
+    margin-top: 0;
+	margin-left:0;
+	margin-right:0;
+	background-image: url('images/t.jpg');
+    background-size:cover;
+	background-repeat: repeat; 
+}
+
+#beach, #citytour, #contact, #tips, #review {
+    background-image: url('images/idbg.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+	
+
+}
+
+
+#bookingOptionsModal{
+	background-image: url('images/idbg.jpg');
+	background-size: cover;
+	padding:200px;
+}
+
+#bookingOptionsModal button{
+	background-color:pink;
+    padding:7px;
+}
+
+
+header {
+    text-align: center;
+}
+
+button {
+    background-color: black;
+    color: black;
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+	font-size:16px;	
+}
+
+#review button{
+	background-color:pink;
+}
+
+h3{
+	color:#1E90FF;
+}
+
+div.gen, div.tour {
+    background-color:#FFE4E1;
+}
+
+div.gen{
+	padding:15px; 
+    width:40%; 
+	float:right; 
+	margin-top:70px;
+}
+
+div.tour{
+	margin-left:120px;
+	width:50%;
+}
+
+
+h2{
+	text-align:center;
+	color:blue;
+}
+
+#contact h3{
+	color:blue;
+}
+
+div.tip1, div.tip2 {
+    background-color:#FFE4E1;
+}
+
+div.tip1{
+
+	margin-left:160px;
+ 
+    width:80%; 
+
+}
+
+div.tip2{
+	margin-left:80px;
+	width:80%;
+	
+}
+
+#contact{padding:200px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
